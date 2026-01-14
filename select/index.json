@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "メラメラ",
+  "base_artist": "ARCANA PROJECT",
+  "createdAt": "2026-01-14T02:40:45.861992Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メラメラ",
+      "artist": "Do As Infinity",
+      "has_synced": true,
+      "path": "select/01_メラメラ_Do_As_Infinity.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メラメラ",
+      "artist": "ARCANA PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_メラメラ_ARCANA_PROJECT.txt"
+    }
+  ]
+}
